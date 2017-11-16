@@ -91,6 +91,8 @@ function checkCharging() {
         startMining();
       }
     });
+  }).catch(err => {
+    // console.log("Caught error:", err.message);
   });
 }
 
