@@ -21,6 +21,7 @@
     "node-icns": "0.0.4"
   },
   "dependencies": {
+    "7zip-bin-linux": "^1.1.0",
     "battery-level": "^2.0.1",
     "electron-log": "^2.2.7",
     "electron-positioner": "^3.0.0",
